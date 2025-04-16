@@ -4,6 +4,8 @@
 
 - <b> Azure Directory Home Lab </b>
 
+<h2> 📋 Certifications </h2>
+
 
 
 
