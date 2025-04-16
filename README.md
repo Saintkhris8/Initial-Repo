@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Azure Directory </b>
+- <b> Azure Directory Home Lab </b>
 
 
 
