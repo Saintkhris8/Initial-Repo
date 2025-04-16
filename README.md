@@ -4,9 +4,6 @@
 
 - <b> Azure Directory Home Lab </b>
 
-<h2> 📋 Certifications </h2>
-
-
 
 
 Here are some ideas to get you started:
